@@ -5,22 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/searchandfilter.com",
     "slug": "search-and-filter",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1143,
-    "timeDay": 583,
-    "timeWeek": 865,
-    "timeMonth": 1473,
+    "timeDay": 1076,
+    "timeWeek": 917,
+    "timeMonth": 1474,
     "timeYear": 1143,
-    "dailyMinutesDown": {
-      "2021-10-10": 8,
-      "2021-10-08": 6,
-      "2021-10-05": 11,
-      "2021-09-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Custom Layouts",
@@ -33,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 540,
-    "timeWeek": 814,
-    "timeMonth": 830,
-    "timeYear": 847,
+    "time": 849,
+    "timeDay": 1041,
+    "timeWeek": 887,
+    "timeMonth": 832,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   },
   {
@@ -51,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 511,
-    "timeWeek": 718,
+    "time": 725,
+    "timeDay": 880,
+    "timeWeek": 771,
     "timeMonth": 738,
-    "timeYear": 723,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   }
 ]
