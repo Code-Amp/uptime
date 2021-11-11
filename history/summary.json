@@ -4,18 +4,20 @@
     "url": "https://searchandfilter.com",
     "icon": "https://favicons.githubusercontent.com/searchandfilter.com",
     "slug": "search-and-filter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1132,
-    "timeDay": 1091,
-    "timeWeek": 975,
-    "timeMonth": 940,
-    "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "time": 1135,
+    "timeDay": 1279,
+    "timeWeek": 1036,
+    "timeMonth": 956,
+    "timeYear": 1135,
+    "dailyMinutesDown": {
+      "2021-11-11": 0
+    }
   },
   {
     "name": "Custom Layouts",
