@@ -4,19 +4,19 @@
     "url": "https://searchandfilter.com",
     "icon": "https://favicons.githubusercontent.com/searchandfilter.com",
     "slug": "search-and-filter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 1279,
-    "timeWeek": 1036,
-    "timeMonth": 956,
-    "timeYear": 1135,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1137,
+    "timeDay": 1284,
+    "timeWeek": 1065,
+    "timeMonth": 966,
+    "timeYear": 1137,
     "dailyMinutesDown": {
-      "2021-11-11": 0
+      "2021-11-11": 20
     }
   },
   {
