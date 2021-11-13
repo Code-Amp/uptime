@@ -6,15 +6,15 @@
     "slug": "search-and-filter",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1138,
-    "timeDay": 1337,
-    "timeWeek": 1084,
-    "timeMonth": 973,
-    "timeYear": 1138,
+    "time": 1140,
+    "timeDay": 1433,
+    "timeWeek": 1125,
+    "timeMonth": 998,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2021-11-11": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 1038,
-    "timeWeek": 846,
-    "timeMonth": 841,
-    "timeYear": 849,
+    "time": 850,
+    "timeDay": 985,
+    "timeWeek": 873,
+    "timeMonth": 854,
+    "timeYear": 850,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 917,
-    "timeWeek": 772,
-    "timeMonth": 750,
-    "timeYear": 728,
+    "time": 730,
+    "timeDay": 894,
+    "timeWeek": 776,
+    "timeMonth": 762,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   }
 ]
