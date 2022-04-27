@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1131,
-    "timeDay": 556,
-    "timeWeek": 792,
-    "timeMonth": 975,
-    "timeYear": 1131,
+    "time": 1129,
+    "timeDay": 575,
+    "timeWeek": 721,
+    "timeMonth": 972,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2022-01-02": 55,
       "2021-11-27": 22,
@@ -27,18 +27,19 @@
     "icon": "https://favicons.githubusercontent.com/customlayouts.com",
     "slug": "custom-layouts",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "74.24%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.90%",
     "time": 882,
-    "timeDay": 573,
-    "timeWeek": 814,
-    "timeMonth": 937,
+    "timeDay": 0,
+    "timeWeek": 746,
+    "timeMonth": 949,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-27": 51,
+      "2022-04-26": 320
     }
   },
   {
@@ -52,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 517,
-    "timeWeek": 680,
-    "timeMonth": 834,
-    "timeYear": 767,
+    "time": 766,
+    "timeDay": 495,
+    "timeWeek": 619,
+    "timeMonth": 833,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   }
 ]
